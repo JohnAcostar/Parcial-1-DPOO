@@ -9,4 +9,4 @@ public class Tablero {
                columna >= 1 && columna <= TAMANIO;
     }
 }
-jkj
+
